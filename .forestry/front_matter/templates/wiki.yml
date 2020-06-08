@@ -1,4 +1,10 @@
 ---
 label: Wiki
 hide_body: false
-fields: []
+fields:
+- name: placeholder
+  type: text
+  config:
+    required: false
+  label: Placeholder
+  description: This is a test for a paragrpagh
