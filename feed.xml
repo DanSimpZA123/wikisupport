@@ -3,7 +3,7 @@
     <title>TechBaseZA</title>
     <link href="https://DanSimpZA123.github.io/wikisupport/feed.xml" rel="self" />
     <link href="https://DanSimpZA123.github.io/wikisupport" />
-    <updated>2020-06-11T09:29:02+02:00</updated>
+    <updated>2020-06-11T11:39:39+02:00</updated>
     <author>
         <name>Daniel Simpson</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://DanSimpZA123.github.io/wikisupport/ncr-printers-7167-xxx.html"/>
         <id>https://DanSimpZA123.github.io/wikisupport/ncr-printers-7167-xxx.html</id>
 
-        <updated>2020-06-11T09:28:56+02:00</updated>
+        <updated>2020-06-11T11:39:30+02:00</updated>
             <summary>
                 <![CDATA[
-                    Please see below info and support regarding NCR printers Printer Models Diagnostics Software NCR71xxDiagInstall_v2.2.12.exe NCR71xxDiag_Readme v2.2.12.txt Manuals 
+                    Please see below info and support regarding NCR printers Printer Models Diagnostics Software NCR71xxDiagInstall_v2.2.12.exe NCR71xxDiag_Readme v2.2.12.txt Manuals 7199 - NCR RealPOS 7199 User Guide 7167-XXX - 7167 User Guide 7197 Parts Guide - 7167 POS Printer Parts Identification
                 ]]>
             </summary>
         <content type="html">
@@ -36,7 +36,9 @@
 <p><a href="https://DanSimpZA123.github.io/wikisupport/NCR71xxDiagInstall_v2.2.12.exe" download="download">NCR71xxDiagInstall_v2.2.12.exe</a></p>
 <p><a href="https://DanSimpZA123.github.io/wikisupport/NCR71xxDiag_Readme v2.2.12.txt" download="download">NCR71xxDiag_Readme v2.2.12.txt</a></p>
 <p><strong>Manuals</strong></p>
-<p> </p>
+<p>7199 - <a href="https://DanSimpZA123.github.io/wikisupport/ncr-realpos7199-userguide.pdf" download="download">NCR RealPOS 7199 User Guide</a></p>
+<p>7167-XXX - <a href="https://DanSimpZA123.github.io/wikisupport/7167.pdf" download="download">7167 User Guide</a></p>
+<p>7197 Parts Guide - <a href="https://DanSimpZA123.github.io/wikisupport/7167_RealPOS_Printer_Parts_identification_R1.pdf" download="download">7167 POS Printer Parts Identification</a></p>
             ]]>
         </content>
     </entry>
