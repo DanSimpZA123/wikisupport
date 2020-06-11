@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TechBaseZA",
+    "description": "",
+    "home_page_url": "https://DanSimpZA123.github.io/wikisupport",
+    "feed_url": "https://DanSimpZA123.github.io/wikisupport/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Daniel Simpson"
+    },
+    "items": [
+    ]
+}
