@@ -9,5 +9,19 @@
         "name": "Daniel Simpson"
     },
     "items": [
+        {
+            "id": "https://DanSimpZA123.github.io/wikisupport/ncr-printers-7167-xxx.html",
+            "url": "https://DanSimpZA123.github.io/wikisupport/ncr-printers-7167-xxx.html",
+            "title": "NCR Printers 7167-XXX",
+            "summary": "Please see below info and support regarding NCR printers ",
+            "content_html": "<p>Please see below info and support regarding NCR printers</p>\n<p> </p>",
+            "author": {
+                "name": "Daniel Simpson"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-11T08:22:43+02:00",
+            "date_modified": "2020-06-11T08:22:43+02:00"
+        }
     ]
 }
