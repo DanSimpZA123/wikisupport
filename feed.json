@@ -5,10 +5,25 @@
     "home_page_url": "https://DanSimpZA123.github.io/wikisupport",
     "feed_url": "https://DanSimpZA123.github.io/wikisupport/feed.json",
     "user_comment": "",
+    "icon": "https://DanSimpZA123.github.io/wikisupport/media/website/logo.png",
     "author": {
         "name": "Daniel Simpson"
     },
     "items": [
+        {
+            "id": "https://DanSimpZA123.github.io/wikisupport/linux-guide.html",
+            "url": "https://DanSimpZA123.github.io/wikisupport/linux-guide.html",
+            "title": "Linux Guide",
+            "summary": "A wiki guide for simple linux tips",
+            "content_html": "<p class=\"align-center\">A wiki guide for simple linux tips</p>",
+            "author": {
+                "name": "Daniel Simpson"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-11T13:23:08+02:00",
+            "date_modified": "2020-06-11T13:23:08+02:00"
+        },
         {
             "id": "https://DanSimpZA123.github.io/wikisupport/scanners.html",
             "url": "https://DanSimpZA123.github.io/wikisupport/scanners.html",

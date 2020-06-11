@@ -3,12 +3,32 @@
     <title>TechBaseZA</title>
     <link href="https://DanSimpZA123.github.io/wikisupport/feed.xml" rel="self" />
     <link href="https://DanSimpZA123.github.io/wikisupport" />
-    <updated>2020-06-11T13:01:50+02:00</updated>
+    <updated>2020-06-11T14:05:01+02:00</updated>
     <author>
         <name>Daniel Simpson</name>
     </author>
     <id>https://DanSimpZA123.github.io/wikisupport</id>
 
+    <entry>
+        <title>Linux Guide</title>
+        <author>
+            <name>Daniel Simpson</name>
+        </author>
+        <link href="https://DanSimpZA123.github.io/wikisupport/linux-guide.html"/>
+        <id>https://DanSimpZA123.github.io/wikisupport/linux-guide.html</id>
+
+        <updated>2020-06-11T13:23:08+02:00</updated>
+            <summary>
+                <![CDATA[
+                    A wiki guide for simple linux tips
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">A wiki guide for simple linux tips</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Scanners</title>
         <author>
