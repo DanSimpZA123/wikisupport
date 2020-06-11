@@ -3,7 +3,7 @@
     <title>TechBaseZA</title>
     <link href="https://DanSimpZA123.github.io/wikisupport/feed.xml" rel="self" />
     <link href="https://DanSimpZA123.github.io/wikisupport" />
-    <updated>2020-06-11T09:13:29+02:00</updated>
+    <updated>2020-06-11T09:29:02+02:00</updated>
     <author>
         <name>Daniel Simpson</name>
     </author>
@@ -17,15 +17,25 @@
         <link href="https://DanSimpZA123.github.io/wikisupport/ncr-printers-7167-xxx.html"/>
         <id>https://DanSimpZA123.github.io/wikisupport/ncr-printers-7167-xxx.html</id>
 
-        <updated>2020-06-11T08:22:43+02:00</updated>
+        <updated>2020-06-11T09:28:56+02:00</updated>
             <summary>
                 <![CDATA[
-                    Please see below info and support regarding NCR printers 
+                    Please see below info and support regarding NCR printers Printer Models Diagnostics Software NCR71xxDiagInstall_v2.2.12.exe NCR71xxDiag_Readme v2.2.12.txt Manuals 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Please see below info and support regarding NCR printers</p>
+<p><strong>Printer Models</strong></p>
+<ul>
+<li>7167-2011</li>
+<li>7167-6011</li>
+<li>7199</li>
+</ul>
+<p><strong>Diagnostics Software</strong></p>
+<p><a href="https://DanSimpZA123.github.io/wikisupport/NCR71xxDiagInstall_v2.2.12.exe" download="download">NCR71xxDiagInstall_v2.2.12.exe</a></p>
+<p><a href="https://DanSimpZA123.github.io/wikisupport/NCR71xxDiag_Readme v2.2.12.txt" download="download">NCR71xxDiag_Readme v2.2.12.txt</a></p>
+<p><strong>Manuals</strong></p>
 <p> </p>
             ]]>
         </content>
