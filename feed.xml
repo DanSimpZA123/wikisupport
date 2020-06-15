@@ -3,7 +3,7 @@
     <title>TechBaseZA</title>
     <link href="https://DanSimpZA123.github.io/wikisupport/feed.xml" rel="self" />
     <link href="https://DanSimpZA123.github.io/wikisupport" />
-    <updated>2020-06-15T08:22:06+02:00</updated>
+    <updated>2020-06-15T08:45:31+02:00</updated>
     <author>
         <name>Daniel Simpson</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://DanSimpZA123.github.io/wikisupport/linux-guide.html"/>
         <id>https://DanSimpZA123.github.io/wikisupport/linux-guide.html</id>
 
-        <updated>2020-06-15T08:21:07+02:00</updated>
+        <updated>2020-06-15T08:45:21+02:00</updated>
             <summary>
                 <![CDATA[
-                    A wiki guide for simple linux tips Basic commands and syntax Basic file structure layout and how it applies etcbinusrvar
+                    A wiki guide for simple linux tips Basic commands and syntax Basic file structure layout and how it applies Linux Command Cheat Sheet
                 ]]>
             </summary>
         <content type="html">
@@ -42,6 +42,7 @@
 <li>usr</li>
 <li>var</li>
 </ul>
+<p><a href="https://DanSimpZA123.github.io/wikisupport/linux-cheat-sheet.pdf" download="download">Linux Command Cheat Sheet</a></p>
             ]]>
         </content>
     </entry>
