@@ -3,7 +3,7 @@
     <title>TechBaseZA</title>
     <link href="https://DanSimpZA123.github.io/wikisupport/feed.xml" rel="self" />
     <link href="https://DanSimpZA123.github.io/wikisupport" />
-    <updated>2020-06-15T08:16:29+02:00</updated>
+    <updated>2020-06-15T08:22:06+02:00</updated>
     <author>
         <name>Daniel Simpson</name>
     </author>
@@ -17,15 +17,31 @@
         <link href="https://DanSimpZA123.github.io/wikisupport/linux-guide.html"/>
         <id>https://DanSimpZA123.github.io/wikisupport/linux-guide.html</id>
 
-        <updated>2020-06-11T13:23:08+02:00</updated>
+        <updated>2020-06-15T08:21:07+02:00</updated>
             <summary>
                 <![CDATA[
-                    A wiki guide for simple linux tips
+                    A wiki guide for simple linux tips Basic commands and syntax Basic file structure layout and how it applies etcbinusrvar
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p class="align-center">A wiki guide for simple linux tips</p>
+<p><em>Basic commands and syntax</em></p>
+<ul>
+<li>cd</li>
+<li>ls -l</li>
+<li>cat</li>
+<li>vi</li>
+<li>mount</li>
+<li>root</li>
+</ul>
+<p><em>Basic file structure layout and how it applies </em></p>
+<ul>
+<li>etc</li>
+<li>bin</li>
+<li>usr</li>
+<li>var</li>
+</ul>
             ]]>
         </content>
     </entry>
