@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://DanSimpZA123.github.io/wikisupport/first-step.html",
+            "url": "https://DanSimpZA123.github.io/wikisupport/first-step.html",
+            "title": "First Step",
+            "summary": "This is a read me for the use of the website. Resources Menu Item This is a list of Posts that contain information and manuals related to certain NCR equipment. Wiki Guide Menu Item This will contain a drop down of of&hellip;",
+            "content_html": "<p>This is a read me for the use of the website.</p>\n<p><em><strong>Resources Menu Item</strong></em></p>\n<p><em>This is a list of Posts that contain information and manuals related to certain NCR equipment.</em></p>\n<p><strong><em>Wiki Guide Menu </em></strong><strong><i>Item</i></strong></p>\n<p><em>This will contain a drop down of of guides for different acppects of retail and linux.</em></p>\n<p> </p>",
+            "author": {
+                "name": "Daniel Simpson"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-15T08:53:05+02:00",
+            "date_modified": "2020-06-15T08:53:05+02:00"
+        },
+        {
             "id": "https://DanSimpZA123.github.io/wikisupport/linux-guide.html",
             "url": "https://DanSimpZA123.github.io/wikisupport/linux-guide.html",
             "title": "Linux Guide",

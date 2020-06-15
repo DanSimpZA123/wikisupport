@@ -3,12 +3,37 @@
     <title>TechBaseZA</title>
     <link href="https://DanSimpZA123.github.io/wikisupport/feed.xml" rel="self" />
     <link href="https://DanSimpZA123.github.io/wikisupport" />
-    <updated>2020-06-15T08:46:36+02:00</updated>
+    <updated>2020-06-15T08:54:06+02:00</updated>
     <author>
         <name>Daniel Simpson</name>
     </author>
     <id>https://DanSimpZA123.github.io/wikisupport</id>
 
+    <entry>
+        <title>First Step</title>
+        <author>
+            <name>Daniel Simpson</name>
+        </author>
+        <link href="https://DanSimpZA123.github.io/wikisupport/first-step.html"/>
+        <id>https://DanSimpZA123.github.io/wikisupport/first-step.html</id>
+
+        <updated>2020-06-15T08:53:05+02:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a read me for the use of the website. Resources Menu Item This is a list of Posts that contain information and manuals related to certain NCR equipment. Wiki Guide Menu Item This will contain a drop down of of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a read me for the use of the website.</p>
+<p><em><strong>Resources Menu Item</strong></em></p>
+<p><em>This is a list of Posts that contain information and manuals related to certain NCR equipment.</em></p>
+<p><strong><em>Wiki Guide Menu </em></strong><strong><i>Item</i></strong></p>
+<p><em>This will contain a drop down of of guides for different acppects of retail and linux.</em></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Linux Guide</title>
         <author>
