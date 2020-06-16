@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://DanSimpZA123.github.io/wikisupport/bootable-usb.html",
+            "url": "https://DanSimpZA123.github.io/wikisupport/bootable-usb.html",
+            "title": "Bootable USB",
+            "summary": "This is a simple guide to creating a bootable USB for use to deploy or backup a windows or a Linux environment as well as editing of Linux files. Please see below is a link to Ventoy Bootable USB Creator&hellip;",
+            "content_html": "<p>This is a simple guide to creating a bootable USB for use to deploy or backup a windows or a Linux environment as well as editing of Linux files.</p>\n<p>Please see below is a link to Ventoy Bootable USB Creator</p>\n<p><a href=\"https://www.ventoy.net/en/index.html\">Ventoy Bootable USB</a> (Ventoy is an open source tool to create bootable USB drive for ISO files. With ventoy, you don't need to format the disk again and again, you just need to copy the iso file to the USB drive and boot it.)</p>\n<p>Please see below is link to Etcher Flash Imager.</p>\n<p><a href=\"https://www.balena.io/etcher/\">Etcher Flash Imager</a> ( Flash OS images to SD cards &amp; USB drives, safely and easily. Available for both Linux and Windows.)</p>\n<p> </p>",
+            "author": {
+                "name": "Daniel Simpson"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-16T08:28:03+02:00",
+            "date_modified": "2020-06-16T08:28:03+02:00"
+        },
+        {
             "id": "https://DanSimpZA123.github.io/wikisupport/first-step.html",
             "url": "https://DanSimpZA123.github.io/wikisupport/first-step.html",
             "title": "First Step",
